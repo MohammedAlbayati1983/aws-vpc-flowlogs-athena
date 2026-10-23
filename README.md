@@ -38,3 +38,4 @@ A comprehensive security and monitoring project that captures VPC Flow Logs, str
 ├── testing/               # Connectivity & validation tests
 └── infrastructure-as-code/ # (Planned) Terraform implementation
 ```
+
