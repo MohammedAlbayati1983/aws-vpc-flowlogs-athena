@@ -66,6 +66,6 @@ Integration with WAF: Automatically block the malicious IPs detected by Athena u
 This project is licensed under the MIT License - see the LICENSE file.
 
 👤 Author
-Mohammed Albayati
+Mohammed Al-Bayati
 
 GitHub: @MohammedAlbayati1983
